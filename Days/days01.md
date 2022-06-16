@@ -1,9 +1,20 @@
 <h1>Introduction to DevOps - Day01</h1>
 
-### What is and why do we use DevOps
+Hello everyone!
 
-- [✔️] ♾️ 2 > [Responsibilities of a DevOps Engineer](Days/day02.md)
-- [✔️] ♾️ 3 > [DevOps Lifecycle - Application Focused](Days/day03.md)
-- [✔️] ♾️ 4 > [DevOps & Agile](Days/day04.md)
-- [✔️] ♾️ 5 > [Plan > Code > Build > Testing > Release > Deploy > Operate > Monitor >](Days/day05.md)
-- [✔️] ♾️ 6 > [DevOps - The real stories](Days/day06.md)
+Before we start our journey of 90daysofDevOps, I want to add that I am very excited for this journey. I was thinking of learning DevOps for around a month and today finally I had taken a step to learn DevOps in the next 90 days. I will include all the resources and that I am using. I will focus on keeping it short and simple. 
+
+I will follow **KISS** principle for learning the DevOps that is **"Keep It Simple, Stupid"**
+
+Okay, Let's the Journey begin.
+
+## What is DevOps?
+1. DevOps is a combination of two words that is Development and Operation. 
+2. It is a methodology that allows single team to manage the entire application development life cycle, that is development, testing, deployment and operations.
+3. The objective of devops is to shorten the system's development life cycle.
+4. DevOps is a software development approach through which superior quality software can be developed quickly and with more reliability.
+
+
+
+
+
