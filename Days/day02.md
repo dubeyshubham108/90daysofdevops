@@ -22,3 +22,69 @@ c. Tools used git, IDE's, slack
 <p align="center">
  <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/Continuous-Development-Tools.jpg" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
 </p>
+
+## Continuous Integration
+a. 
+
+b
+
+c.
+
+<p align="center">
+ <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/Continuous-Integration-Tools.jpg" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
+</p>
+
+## Continuous Testing
+a.
+
+b.
+
+c.
+
+<p align="center">
+ <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/Continuous-Testing-Tools.jpg" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
+</p>
+
+## Continuous Monitoring
+a. 
+
+b.
+
+c.
+
+<p align="center">
+ <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/Continuous-Monitoring-Tools.jpg" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
+</p>
+
+## Continuous Feedback
+a. 
+
+b.
+
+c.
+
+<p align="center">
+ <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/Continuous-Feedback-Tools.jpg" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
+</p>
+
+## Continuous Deployment
+a.
+
+b.
+
+c.
+
+<p align="center">
+ <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/Continuous-Deployment-Tools.jpg" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
+</p>
+
+## Continuous Operations
+a. 
+
+b.
+
+c.
+
+<p align="center">
+ <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/Continuous-Operations-Tools.jpg" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
+</p>
