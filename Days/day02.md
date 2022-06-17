@@ -24,66 +24,62 @@ c. Tools used git, IDE's, slack
 </p>
 
 ## Continuous Integration
-a. 
+a. Source code in the central repository is regularly updated.
 
-b
+b.  This process also involves unit testing, integration testing, code review, and the packaging of the code written by the developers.
 
-c.
+c.Tools used Jenkins, GitLab, etc.
 
 <p align="center">
  <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/Continuous-Integration-Tools.jpg" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
 </p>
 
 ## Continuous Testing
-a.
+a. Code written by developers is sent to testers where they use automated tools to test it for bugs.
 
-b.
+b. Can schedule to run the tests automatically at a predefined time. The report generated in this phase is sent back to the developers where they make necessary updates to the code to remove the bugs.
 
-c.
+c. Tools used Selenium, Junit(for testing Java code).
 
 <p align="center">
  <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/Continuous-Testing-Tools.jpg" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
 </p>
 
 ## Continuous Monitoring
-a. 
+a. It involves checking the performance and the reliability of the code.
 
-b.
+b. Also check the infrastructure as the code move from development to deployment.
 
-c.
+c. Tools used in this phase are Nagios, Sensu, etc
 
 <p align="center">
  <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/Continuous-Monitoring-Tools.jpg" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
 </p>
 
 ## Continuous Feedback
-a. 
+a. Feedbacks from the user is taken with the help of surveys, questionnaires, and focus groups.
 
-b.
+b. Feedbacks are also taken with the help of social media platform such as Twitter, Facebook,etc.
 
-c.
+c. Tools used is Pento
 
 <p align="center">
  <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/Continuous-Feedback-Tools.jpg" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
 </p>
 
 ## Continuous Deployment
-a.
+a. Application is deployed on the production surver.
 
-b.
-
-c.
+b. Tools used is AWS CodeDeploy, Octopus Deploy, Jenkins, etc.
 
 <p align="center">
  <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/Continuous-Deployment-Tools.jpg" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
 </p>
 
 ## Continuous Operations
-a. 
+a. The goal of this phase is to increase the uptime or the time the users can use the application. 
 
-b.
-
-c.
+b. Tools used is Kubernetes, Docker.
 
 <p align="center">
  <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/Continuous-Operations-Tools.jpg" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
