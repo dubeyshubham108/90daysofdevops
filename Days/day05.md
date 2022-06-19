@@ -1,6 +1,8 @@
 # Day 5 - File System Hierarchy
 When we install Linux certain files gets automatically created. Some of the files and their use has been mention below.
 
+<img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/linuxDir.jpg" alt="Linux File System Hierarchy">
+
 1. <b>/home</b>: home directory for other users.
 
 2. <b>/root</b>: It is home directory for root user.
