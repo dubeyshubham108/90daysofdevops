@@ -17,7 +17,7 @@ When we install Linux certain files gets automatically created. Some of the file
 9. <b>/dev</b>: Essential essential device files. This include terminal devices, usb or any device attached to the system.
 
 
-I suggest that you should check out the below link for better understanding of file system hierarchy in Linux.
+I suggest that you should check out the below link for better understanding of file system hierarchy in Linux. I will be adding many links in the future and also will include books in pdf format.
 
 ## Resources
 1. <a href="https://www.youtube.com/watch?v=6OfP7lf9Hjw&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=5&ab_channel=TechnicalGuftgu">Techincal Guftgu youtube channel</a>
