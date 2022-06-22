@@ -12,6 +12,7 @@ This repository will be documenting my learning devops skills as a beginners. I 
 - [✔️] ♾️ 3 > [DevOps Roadmap](Days/day03.md)
 
 ### Linux
+
 - [✔️] ♾️ 4 > [Introduction to Linux Operating System](Days/day04.md)
 - [✔️] ♾️ 5 > [Linux-File System Hierarchy](Days/day05.md)
 - [✔️] ♾️ 6 > [Creating files in Linux](Days/day06.md)
