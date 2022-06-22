@@ -24,6 +24,21 @@
 
 
 
+### Remove file or directory
+
+| Command | Description |
+| ------- | ----------- |
+| `rm` | Removes a file |
+| `rmdir` | Removes directory |
+| `rmdir -p` | Remove both parents and child directory |
+| `rmdir -pv` | Removes all the parent and subdirectories along with verbose |
+| `rm -rf` | Removes even non-empty file and directory |
+| `rm -rp` | Removes non-empty directories including parent and subdirectory |
+| `rm -r` | Removes empty directory |
+| `rm -rf *` | Removes all the files |
+
+
+
 
 
 ## Resources
