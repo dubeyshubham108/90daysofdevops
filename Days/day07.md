@@ -20,6 +20,8 @@
 | `rm` | Removes a file |
 | `rmdir` | Removes directory |
 | `mkdir` | Create directory |
+| `history` | Displays older commands from the shell command history. |
+
 
 
 
