@@ -24,8 +24,11 @@ For more click <a href="https://www.javatpoint.com/linux-touch"></a>
 ### Note
 
 :w - To save
+
 :wq or :x - To save and quit.
+
 :q - quit
+
 :q! - force quit, no save.
 
 ## Resources
