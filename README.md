@@ -16,4 +16,6 @@ This repository will be documenting my learning devops skills as a beginners. I 
 - [✔️] ♾️ 4 > [Introduction to Linux Operating System](Days/day04.md)
 - [✔️] ♾️ 5 > [Linux-File System Hierarchy](Days/day05.md)
 - [✔️] ♾️ 6 > [Creating files in Linux](Days/day06.md)
-- [✔️] ♾️ 7 > [Linux basic commands](Days/day07.md)
+- [✔️] ♾️ 7 > [Linux basic commands-1](Days/day07.md)
+- [✔️] ♾️ 7 > [Linux basic commands-2](Days/day08.md)
+
