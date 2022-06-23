@@ -21,4 +21,4 @@
 1. <a href="https://t.co/1GHiugJsQo">Youtube video</a>
 2. <a href="https://www.youtube.com/watch?v=Wgi-OfbP2Gw&ab_channel=edureka%21">Linux full course</a>
 
-I will keep adding many more resources in it. see you on <a href="day 9"></a>
+I will keep adding many more resources in it. see you on <a href="">day 9</a>
