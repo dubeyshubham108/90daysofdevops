@@ -14,4 +14,11 @@
 | `whoami` | Check whether root user or normal user |
 | `head file1` | shows first ten lines |
 | `tail file1` | Shows last 10 lines |
-| `more file1` | shows all the pages you had in file1 |
+| `more file1` | shows all the pages you have in file1 |
+
+
+## Resources
+1. <a href="https://t.co/1GHiugJsQo">Youtube video</a>
+2. <a href="https://www.youtube.com/watch?v=Wgi-OfbP2Gw&ab_channel=edureka%21">Linux full course</a>
+
+I will keep adding many more resources in it. see you on <a href="day 9"></a>
