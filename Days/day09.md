@@ -1,5 +1,9 @@
 # Basics of Linux file permission
 
+<p align="center">
+<img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/Linux%20file%20access%20permission.png" alt="read write execute" width="100%" height="80%" />
+</p>
+
 Linux is a multi-user operating system and it uses the concepts of “ownership” and “permissions” to enhance the security of the files and directories.
 
 Every file and directory on Linux system is owned by a specific user and group. Therefore, file/directory permissions are defined separately for users, groups, and others.
@@ -37,6 +41,3 @@ x = execute permission
 
 _ = no permission
 
-<p align="center">
-<img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/Linux%20file%20access%20permission.png" alt="read write execute" width="100%" height="80%" />
-</p>
