@@ -30,7 +30,13 @@ Similarly, you can view the groups on your system by viewing the /etc/group file
 ## Identifying Permissions
 
 r = read permission
-w = write permission
-x = execute permission
-- = no permission
 
+w = write permission
+
+x = execute permission
+
+_ = no permission
+
+<p align="center">
+<img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/Linux%20file%20access%20permission.png" alt="read write execute" width="100%" height="80%" />
+</p>
