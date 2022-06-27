@@ -23,6 +23,10 @@ This repository will be documenting my learning devops skills as a beginners. I 
 ### Git
 - [✔️] ♾️ 10 > [Introduction to Git](Days/day10.md)
 - [✔️] ♾️ 11 > [Three Stages in Git](Days/day11.md)
+- [✔️] ♾️ 12 > [Git Commands](Days/day12.md)
+
+
+ 
 
 
 
