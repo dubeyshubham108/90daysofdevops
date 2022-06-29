@@ -21,11 +21,11 @@ This repository will be documenting my learning devops skills as a beginners. I 
 - [✔️] 🐧 9 > [Linux Access Modes/Permissions](Days/day09.md)
 
 ### Git
-- [✔️] ♾️ 10 > [Introduction to Git](Days/day10.md)
-- [✔️] ♾️ 11 > [Three Stages in Git](Days/day11.md)
-- [✔️] ♾️ 12 > [Git Commands](Days/day12.md)
-- [✔️] ♾️ 13 > [Git Branching](Days/day13.md)
-- [✔️] ♾️ 14 > [Git Stashing, Reset and Git Revert](Days/day14.md)
+- [✔️] 📚 10 > [Introduction to Git](Days/day10.md)
+- [✔️] 📚 11 > [Three Stages in Git](Days/day11.md)
+- [✔️] 📚 12 > [Git Commands](Days/day12.md)
+- [✔️] 📚 13 > [Git Branching](Days/day13.md)
+- [✔️] 📚 14 > [Git Stashing, Reset and Git Revert](Days/day14.md)
 
  
 
