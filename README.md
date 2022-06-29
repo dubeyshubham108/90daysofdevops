@@ -25,6 +25,7 @@ This repository will be documenting my learning devops skills as a beginners. I 
 - [✔️] ♾️ 11 > [Three Stages in Git](Days/day11.md)
 - [✔️] ♾️ 12 > [Git Commands](Days/day12.md)
 - [✔️] ♾️ 13 > [Git Branching](Days/day13.md)
+- [✔️] ♾️ 14 > [Git Stashing, Reset and Git Revert](Days/day14.md)
 
  
 
