@@ -29,6 +29,8 @@ This repository will be documenting my learning devops skills as a beginners. I 
 
 ### Computer Networking
 - [✔️] 🌐 15 > [Understanding the Basic of Computer Network](Days/day15.md)
+- [✔️] 🌐 16 > [OSI Model](Days/day16.md)
+
 
 
  
