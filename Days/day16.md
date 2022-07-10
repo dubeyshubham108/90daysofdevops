@@ -7,7 +7,7 @@ OSI model is a tool used by IT professionals to actually trace the flow of How d
 3. It is not used for practical purpose.
 4. In OSI model there are 7 layers. 
 <p align="center">
- <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/osi-model-7-layers-1.png" alt="" width="50%" height="50%" />
+ <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/osi-model-7-layers-1.png" alt="" width="35%" height="35%" />
 </p>
 
 The easy way to remember this layer is "All People Seem To Need Data Processing" or "AP ST Nhi De Payenge"(It's meaning is in hindi language).
@@ -68,7 +68,28 @@ Remember that
  <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20protocols.png" alt="Protocols used in each layer of OSI model" width="50%" height="50%"/>
  </p>
 
-
+## PROTOCOLS
+<p align="center">
+ <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20protocol%201.png" width="50%" height="50%"/>
+ </p>
+ 
+ <p align="center">
+ <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20protocol%202.png" width="50%" height="50%"/>
+ </p>
+ 
+ <p align="center">
+ <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20protocol%201.png" width="50%" height="50%"/>
+ </p>
+ 
+ <p align="center">
+ <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20protocol%203.png" width="50%" height="50%"/>
+ </p>
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 
