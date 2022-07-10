@@ -40,7 +40,7 @@ Remember that
 2. Encryption and Decryption happend in Presentation Layer.
 
 
-## Presentation Data Unit
+## PRESENTATION DATA UNIT
 <p align="center">
  <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20model%20Data%20Transfer.png" alt="OSI model data transfer" width="50%" height="50%"/>
  </p>
@@ -53,7 +53,7 @@ Remember that
  4. In Transport Layer data is transferred in the form of Segments.
  5. While in Session, Presentation and Application Layer data is been transferred in the form of Data only.
  
- ## Devices working in each layer
+ ## DEVICES WORKING IN EACH LAYER
  <p align="center">
  <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20model%20devices%20used.png" alt="OSI model devices used" width="50%" height="50%"/>
  </p>
@@ -77,16 +77,10 @@ Remember that
  <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20protocol%205.png" width="50%" height="50%"/>
  <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20protocol%206.png" width="50%" height="50%"/>
  </p>
- 
-
- 
- 
- 
-
-
 
 ### Resources
 1. <a href="https://www.youtube.com/watch?v=mBC8UZEvPh4&t=521s&ab_channel=AroraEducator">Complete OSI model in Detail</a>
 2. <a href="https://www.youtube.com/watch?v=mBC8UZEvPh4&ab_channel=AroraEducator">OSI model in Detail</a>
 3. <a href="https://www.youtube.com/watch?v=Dppl6iA2G8Q&t=1s&ab_channel=TechnicalGuftgu">Technical Guftgu video on OSI model</a>
 4. <a href="https://github.com/MichaelCade/90DaysOfDevOps/blob/main/Days/day22.md">OSI Model</a>
+5. <a href="https://www.youtube.com/watch?v=AkdFLrOaZm8&ab_channel=AroraEducator">OSI Model Interview Question</a>
