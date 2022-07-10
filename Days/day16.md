@@ -71,22 +71,14 @@ Remember that
 ## PROTOCOLS
 <p align="center">
  <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20protocol%201.png" width="50%" height="50%"/>
- </p>
- 
- <p align="center">
  <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20protocol%202.png" width="50%" height="50%"/>
- </p>
- 
- <p align="center">
- <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20protocol%201.png" width="50%" height="50%"/>
- </p>
- 
- <p align="center">
  <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20protocol%203.png" width="50%" height="50%"/>
+ <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20protocol%204.png" width="50%" height="50%"/>
+ <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20protocol%205.png" width="50%" height="50%"/>
+ <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20protocol%206.png" width="50%" height="50%"/>
  </p>
  
- 
- 
+
  
  
  
