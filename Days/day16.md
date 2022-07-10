@@ -58,9 +58,14 @@ Remember that
  <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20model%20devices%20used.png" alt="OSI model devices used" width="50%" height="50%"/>
  </p>
  
-## Addresses used in each layer
+## ADDRESSES USED IN EACH LAYER
 <p align="center">
  <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20model%20address%20used.png" alt="Addresses used in each layer of OSI model" width="50%" height="50%"/>
+ </p>
+ 
+## PROTOCOLS USED IN EACH LAYER
+<p align="center">
+ <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20protocols.png" alt="Protocols used in each layer of OSI model" width="50%" height="50%"/>
  </p>
 
 
