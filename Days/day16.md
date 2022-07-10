@@ -35,7 +35,29 @@ Working of each layer in OSI model.
   <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20working%20of%20each%20layer.png" alt="Woking of each layer in OSI model" width="500%" height="500%"/>
   </p>
 
+Remember that 
+1. Error detection happend in Data Link Layer
+2. Encryption and Decryption happend in Presentation Layer.
 
+
+## Presentation Data Unit
+<p align="center">
+ <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20model%20Data%20Transfer.png" alt="OSI model data transfer" width="50%" height="50%"/>
+ </p>
+ 
+ In every layer data is been transferred.<br>
+ Remember that
+ 1. In Physical layer data is transferred in Bits format.
+ 2. In Data Link Layer data is transferred in Frames.
+ 3. In Network Layer data is transferred in the form of Packets.
+ 4. In Transport Layer data is transferred in the form of Segments.
+ 5. While in Session, Presentation and Application Layer data is been transferred in the form of Data only.
+ 
+ ## Devices working in each layer
+ <p align="center">
+ <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20model%20devices%20used.png" alt="OSI model devices used" width="50%" height="50%"/>
+ </p>
+ 
 
 ### Resources
 1. <a href="https://www.youtube.com/watch?v=mBC8UZEvPh4&t=521s&ab_channel=AroraEducator">Complete OSI model in Detail</a>
