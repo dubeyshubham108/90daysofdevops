@@ -32,7 +32,7 @@ The Data Link Layer is divided into two parts. That is:<br>
 
 Working of each layer in OSI model.
 <p align="center">
-  <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20working%20of%20each%20layer.png" alt="Woking of each layer in OSI model" width="500%" height="500%"/>
+  <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20working%20of%20each%20layer.png" alt="Woking of each layer in OSI model" width="50%" height="50%"/>
   </p>
 
 Remember that 
@@ -58,6 +58,14 @@ Remember that
  <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20model%20devices%20used.png" alt="OSI model devices used" width="50%" height="50%"/>
  </p>
  
+## Addresses used in each layer
+<p align="center">
+ <img src="https://github.com/dubeyshubham786/90daysofdevops/blob/main/images/OSI%20model%20address%20used.png" alt="Addresses used in each layer of OSI model" width="50%" height="50%"/>
+ </p>
+
+
+
+
 
 ### Resources
 1. <a href="https://www.youtube.com/watch?v=mBC8UZEvPh4&t=521s&ab_channel=AroraEducator">Complete OSI model in Detail</a>
